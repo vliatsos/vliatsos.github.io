@@ -1,37 +1,3 @@
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/vliatsos/vliatsos.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vliatsos/vliatsos.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Vassilis has 15 years’ experience developing commercial software applications to solve very large-scale combinatorial optimization problems. His capabilities combine hybrid algorithm development and evaluation with software engineering discipline and methodologies. A cofounder of Tradelegs LLC, Vassilis is the systems architect and lead developer for Tradelegs Derivatives Strategist flagship product. As Technical Leader at Cisco, Vassilis was responsible for design and architecture of strategic and innovative network management solutions in the Enterprise sector. A cofounder of Parc Technologies, Vassilis was the lead algorithm developer for Parc’s flagship product (now Cisco’s IP Solution Center: Traffic Engineering Manager). He has been a principal reviewer at several international conferences on combinatorial optimization, and is the author of eight publications in this field. He has been granted three US patents, with others pending. Vassilis has a bachelor degree in Computing, an MSc in Foundations of Advanced IT and a PhD in Computer Science, all from Imperial College London (UK).
